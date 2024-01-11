@@ -1,0 +1,7 @@
+C:\Users\Dell1\source\repos\EXO_PERS_A_RENDRE\EXO_PERS_A_RENDRE\bin\Debug\EXO_PERS_A_RENDRE.exe.config
+C:\Users\Dell1\source\repos\EXO_PERS_A_RENDRE\EXO_PERS_A_RENDRE\bin\Debug\EXO_PERS_A_RENDRE.exe
+C:\Users\Dell1\source\repos\EXO_PERS_A_RENDRE\EXO_PERS_A_RENDRE\bin\Debug\EXO_PERS_A_RENDRE.pdb
+C:\Users\Dell1\source\repos\EXO_PERS_A_RENDRE\EXO_PERS_A_RENDRE\obj\Debug\EXO_PERS_A_RENDRE.csproj.AssemblyReference.cache
+C:\Users\Dell1\source\repos\EXO_PERS_A_RENDRE\EXO_PERS_A_RENDRE\obj\Debug\EXO_PERS_A_RENDRE.csproj.CoreCompileInputs.cache
+C:\Users\Dell1\source\repos\EXO_PERS_A_RENDRE\EXO_PERS_A_RENDRE\obj\Debug\EXO_PERS_A_RENDRE.exe
+C:\Users\Dell1\source\repos\EXO_PERS_A_RENDRE\EXO_PERS_A_RENDRE\obj\Debug\EXO_PERS_A_RENDRE.pdb
